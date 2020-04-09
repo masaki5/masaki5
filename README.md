@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+# Ruby on Rails Tutorial
+
 * Ruby version
 
 * System dependencies
