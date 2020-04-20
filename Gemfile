@@ -75,4 +75,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bcrypt',         '3.1.12'
